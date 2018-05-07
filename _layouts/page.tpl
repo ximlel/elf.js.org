@@ -6,7 +6,7 @@
 <meta name="keywords" content="{{ page.tags | join: ',' }}" />
 <meta name="google-site-verification" content="RylW_eYZwk85sTyPMVT0Rw1yBeplLJEEuL1Z6WDKcq0" />
 <meta name="baidu-tc-verification" content="6090c58a8b2b73e1c4820cd2aa2aa9a5" />
-<title>elf+js: {% if page.trace %}{{ page.trace }}{% else %}{{ page.title }}{% endif %}</title>
+<title>ximlel: {% if page.trace %}{{ page.trace }}{% else %}{{ page.title }}{% endif %}</title>
 <link rel="stylesheet" type="text/css" href="/assets/css/site.css" />
 {% for style in page.styles %}<link rel="stylesheet" type="text/css" href="{{ style }}" />
 {% endfor %}
@@ -21,7 +21,7 @@
 	<div id="MainPage" class="{{ page.pageClass }}">
 		<div id="Header">
 			<div class="layout-section">
-				<div class="logo"><a href="https://ximlel.github.io/"><img src="/assets/img/logo{{ page.logoType }}.png" alt="elf+js" title="体验愉悦的JavaScript开发" /></a></div>
+				<div class="logo"><a href="https://ximlel.github.io/"><img src="/assets/img/logo{{ page.logoType }}.png" alt="ximlel" title="体验愉悦的JavaScript开发" /></a></div>
 				<div class="additional">{% if page.traceHTML %}{{ page.traceHTML }}{% else %}{{ page.title }}{% endif %}</div>
 			</div>
 			<div class="layout-aside">
