@@ -2,7 +2,7 @@ permalink: /blog/posts/:title.html
 exclude:
   - README.md
 
-host: elf.js.org
+host: ximlel.github.io
 
 modules:
     blog:
