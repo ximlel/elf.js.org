@@ -37,7 +37,7 @@
 		<div id="MainBody" class="{{page.mainClass}}">{{ content }}</div>
 		
 		<div id="Footer">
-			<p>&copy; Since 2018 <a href="https://ximlel.github.io/">ximlel.github.io</a> 该项目所有代码使用<a href="https://github.com/ximlel/Multiphase_Flow_Program" target="_blank">github</a>托管，并以<a href="Multiphase_Flow_Program/LICENSE" target="_blank">GPL-3.0协议</a>授权许可。[<a href="/docs/develop/contributor.html">贡献者</a>]</p>
+			<p>&copy; Since 2018 <a href="https://ximlel.github.io/">ximlel.github.io</a> 该项目所有代码使用<a href="https://github.com/ximlel/Multiphase_Flow_Program" target="_blank">github</a>托管，并以<a href="https://www.gnu.org/licenses/gpl-3.0.en" target="_blank">GPL-3.0协议</a>授权许可。[<a href="/docs/develop/contributor.html">贡献者</a>]</p>
 		</div>
 	</div>
 </div>
