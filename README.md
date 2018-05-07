@@ -1,3 +1,2 @@
-# elf+js site project
-
-Visit here: http://elf.js.org/
+# My blog
+originally fork from: http://elf.js.org/
